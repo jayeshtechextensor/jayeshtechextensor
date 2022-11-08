@@ -2,8 +2,7 @@
 
 I am a web developer with industry experience building websites and web applications.
 
-I specialize in PHP (E-commerce, CRM) and have professional experience working with HTML5, CSS, Bootstrap, Jquery, Ajax, VueJs, Phonegap (Hybrid Application) also have Basic knowledge of Photoshop, NodeJs
-
+I specialize in PHP (E-commerce, CRM) and have professional experience working with HTML5, CSS, Bootstrap, Jquery, Ajax, VueJs, NodeJs, Phonegap (Hybrid Application) also have knowledge of Photoshop
 
 
 <h3 align="left">Languages and Tools:</h3>
